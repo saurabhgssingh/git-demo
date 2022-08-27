@@ -1,1 +1,2 @@
  Testing git commands
+Creating a new commit just for fun
